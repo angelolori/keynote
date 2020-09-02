@@ -1,2 +1,2 @@
 # keynote
-An Apple Keynote project
+An Apple Keynote project using Apple Keynote software.
